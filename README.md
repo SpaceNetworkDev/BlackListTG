@@ -7,4 +7,4 @@ Example: @AlexanderProjectBLBot
 1. You need to enter your database data into functions/database.php and plugins/limiter.php.
 2. You need to setup the webhook with the setup.php (https://yoururl.com/setup.php).
 
-by Space Network.
+by Space Network with <3.
